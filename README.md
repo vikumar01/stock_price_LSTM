@@ -1,3 +1,3 @@
 # stock_price_LSTM
 
-LSTM model in Kearas is used to predict the model
+LSTM model in Keras is used to predict the model
